@@ -87,11 +87,11 @@
 
 <div class="stats" align="center">
 
-![Shreejal10's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dshreejal&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Shreejal10's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app//api?username=dshreejal&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dshreejal&count_private=true&theme=algolia&border_radius=20)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dshreejal&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app//api/top-langs/?username=dshreejal&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
   <br>
   <br>
