@@ -1,12 +1,12 @@
 <!-- Banner -->
-![github_cover_banner](https://user-images.githubusercontent.com/111437057/202493047-58b9daaf-cdba-4067-af34-cd98f45e7f16.gif)
+![github_cover_banner](https://github.com/dshreejal/dshreejal/assets/87539140/c75b37a7-abcd-48b6-8bb8-92b3041855bb)
 
 
 <!-- Intro -->
 <div align="center" width="100">
   <h1>Hi there👋, it's me Shreejal </h1>
   <p>
-    I am a passionate, enthusiastic web developer and computer science student. I love learning new programming languages and technologies. Currently I am focused on learning and creating frontend web applications.
+    I am a passionate, enthusiastic MERN Stack web developer and computer science student. I love learning new programming languages and technologies. Currently I am focused on learning and creating full stack web applications.
   </p>
   <br>
   <br>
