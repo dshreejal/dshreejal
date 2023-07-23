@@ -109,7 +109,7 @@
  <a href="https://www.instagram.com/shreejal_dhungana/" target="_blank">
              <img height="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="ig-logo">
  </a>
- <a href="https://www.linkedin.com/" target="_blank">
+ <a href="https://www.linkedin.com/in/shreejal-dhungana/" target="_blank">
              <img height="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg">
  </a>
  <a href="mailto:dshreejal@gmail.com" target="_blank">
