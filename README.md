@@ -17,10 +17,10 @@
 <div align="center">
   <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
   <p align="center">
-  <a href="">
+  <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,typescript,react,nextjs,nodejs,express,nestjs,c,cpp" />
     <img src="https://skillicons.dev/icons?i=python,firebase,mongodb,postgres,prisma,git,vite,vscode" />
-  </a>
+  </div>
 </p>
 <br>
  <br>
