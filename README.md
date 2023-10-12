@@ -7,7 +7,7 @@
 <div align="center" width="100">
   <h1>Hi there👋, it's me Shreejal </h1>
   <p>
-    I am a passionate, enthusiastic MERN Stack web developer and computer science student. I love learning new programming languages and technologies. Currently, I am focused on learning and creating full-stack web applications.
+    I am a passionate, enthusiastic Junior MERN Stack web developer and computer science student. I love learning new programming languages and technologies. Currently, I am focused on learning and creating full-stack web applications.
   </p>
   <br>
   <br>
@@ -34,7 +34,7 @@
 
 <div class="stats" align="center">
 
-![Shreejal10's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app//api?username=dshreejal&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Shreejal10's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app//api?username=dshreejal&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=18)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dshreejal&count_private=true&theme=algolia&border_radius=20)
 
